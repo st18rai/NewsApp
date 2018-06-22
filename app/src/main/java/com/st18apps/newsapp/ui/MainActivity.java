@@ -28,7 +28,7 @@ public class MainActivity extends AppCompatActivity {
 
     private RecyclerView recyclerView;
     private List<Article> articles;
-    private String API_KEY = "3243d178a7c24b0d91df4d9225ab9ff4";
+    private String API_KEY = "855401c7ff6040639e7b9671d0e9a37e";
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
